@@ -29,4 +29,6 @@ Clone the repository:
 ```bash
 git clone https://github.com/<saharsistani137777-lab>/Sahar-Engine.git
 cd Sahar-Engine
-
+MIT License
+Copyright (c) 2025 <saharsistani137777-lab>
+Permission is hereby granted, free of charge, to any person obtaining a copy...
