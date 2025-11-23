@@ -1,5 +1,4 @@
-# Sahar-engine
-A professional interpreter engine for a custom language — Sahar Engine
+
 # Sahar Engine
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
