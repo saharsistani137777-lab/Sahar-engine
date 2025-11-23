@@ -26,3 +26,8 @@ runtime.py       # Environment + builtins
 samples/         # Sample programs
 tests/           # Test scripts
 
+Clone the repository:
+```bash
+git clone https://github.com/<saharsistani137777-lab>/Sahar-Engine.git
+cd Sahar-Engine
+
